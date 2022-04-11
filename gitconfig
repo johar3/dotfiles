@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = johannes.aretin@gmx.de
+	name = Johannes Aretin
